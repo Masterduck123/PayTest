@@ -1,10 +1,10 @@
-# PayTest - HTTP Payload Tester via Tor
+# PayTest
 
 **PayTest** is a command-line tool for sending HTTP requests securely and anonymously through the Tor network. All responses are encrypted and logged locally for review.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Send HTTP payloads (`GET`, `POST`, `PUT`, etc.) via Tor.
 - Supports custom headers, form data, and JSON.
@@ -15,7 +15,7 @@
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 - Python 3.8+
 - Python libraries:
@@ -26,7 +26,7 @@
 
 ---
 
-## 🔧 Installation
+## Installation
 
 ```bash
 git clone https://github.com/youruser/paytest.git
